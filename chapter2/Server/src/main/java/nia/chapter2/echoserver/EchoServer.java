@@ -33,6 +33,7 @@ public class EchoServer {
 //        new EchoServer(port).start();
 
         System.out.println("hello,beibei");
+        System.out.println("hello,beibei2");
     }
 
     public void start() throws Exception {
